@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "219187004777",
+    "project_id": "homies-db1ae",
+    "storage_bucket": "homies-db1ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219187004777:android:668430b3f8dc2c0e5e29f8",
+        "android_client_info": {
+          "package_name": "com.example.homies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219187004777-o7t7fp8n5kmbpa9nfo5rt4npe6792n29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXCnAhk30jUJoWiFcrdk1qqQZF-dAHYwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219187004777-o7t7fp8n5kmbpa9nfo5rt4npe6792n29.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
